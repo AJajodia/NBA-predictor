@@ -1,1 +1,1 @@
-A project I created that uses Random Forest generation to predict the 2023 NBA standings.
+A project I created that uses Random Forest classification to predict the 2023 NBA standings.
